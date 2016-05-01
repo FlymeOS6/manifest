@@ -9,10 +9,10 @@
 
   <project path="manifest" name="FlymeOS6/manifest" />
   <project path="tutorials" name="FlymeOS6/tutorials" />
-  <project path="plugins" name="FlymeOS/plugins" />
+  <project path="plugins" name="FlymeOS6/plugins" />
   <project path="build" name="FlymeOS6/build" />
-  <project path="tools" name="FlymeOS/tools" />
+  <project path="tools" name="FlymeOS6/tools" />
   <project path="flyme/release" name="FlymeOS6/flyme-release"/>
-  <project path="flyme/overlay" name="FlymeOS/flyme-overlay" />
+  <project path="flyme/overlay" name="FlymeOS6/flyme-overlay" />
   <project path="devices/base" name="FlymeOS6/devices-base" />
 </manifest>
