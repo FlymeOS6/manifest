@@ -33,7 +33,7 @@
 通过repo init命令的-b参数, 选择需要下载的分支。
 通过repo sync命令同步远程代码: 
 
-    $ repo init -u https://github.com/FlymeOS/manifest.git -b lollipop-5.1
+    $ repo init -u https://github.com/FlymeOS6/manifest.git -b lollipop-5.1
     $ repo sync -c -j8
 
 如果连接一直失败或下载代码过慢，则使用以下命令:
